@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 
 document.body.style.backgroundColor = "steelblue";
 class App extends React.Component {
