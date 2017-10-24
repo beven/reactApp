@@ -1,0 +1,40 @@
+.header {
+  height: 40vh;
+  background: #212121;
+  color:white;
+  display: table;
+  width: 100%;
+}
+
+.title {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 150%;
+}
+
+.hello {
+  color: #76FF03;
+} 
+
+
+.container {
+  margin-top:50px;
+  display: table;
+  width: 100%;
+}
+
+.message {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 110%;
+}
+
+.file {
+  padding:5px;
+  background: #EEEEEE;
+  border: 1px solid #9E9E9E;
+  border-radius: 10px;
+  font-family: consolas;
+}

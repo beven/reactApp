@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 
 class App extends React.Component {
 	render() {
@@ -11,25 +12,21 @@ class App extends React.Component {
 	}
 }
 
-class Header extends React.Component {
-	render() {
-		return(
-			<div>
-				<h1>Another boring 'Hello World' app!</h1>
-			</div>
-		);
-	}
+function Header() {
+	return (
+		<div className='header'>
+			<div className='title'>Another boring <span className='hello'>Hello World!</span> app!</div>
+		</div>		
+	);
 }
 
-class Content extends React.Component {
-	render(){
-		return(
-			<div>
-				<h2>Can we improve it?</h2>
-				<p>Maybe we can together ...</p>
-			</div>
-		);
-	}
+
+function Content() {
+	return (
+		<div className='container'>
+			<div className='message'>Start playing with <span className='file'>./Apps.jsx</span> file</div>
+		</div>
+	);
 }
 
 export default App;
