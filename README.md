@@ -7,7 +7,7 @@ A hello world reactApp which has the potential to evolve :bug:
 Right now the app is pretty boring :sleeping: which just prints `hello world` but with everyone's help it has the potential to be something a lot more :star:
 Anyone can contribute to this app to make it evolve into something amazing:honeybee:
 
-## Prerequsites
+## Prerequisites
 |Name|Status|Description|
 |:--:|:----:|:----------|
 |[babel]|[![npm](https://img.shields.io/npm/v/npm.svg)]()|Babel puts a soft cushion between a web application and the many cool new file formats developed for use with node.js such as CoffeeScript, SASS, and Jade|
