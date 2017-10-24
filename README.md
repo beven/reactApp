@@ -23,3 +23,4 @@ And the project requires the following babel plugins:
 * Fork the project and create a new branch
 * Create an issue (optional)
 * Raise a 'Pull Request' citing the issue (if any) with that branch to merge into this master branch
+* Don't forget to add yourself to the `CONTRIBUTING.md` file in point form format
