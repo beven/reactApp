@@ -1,5 +1,6 @@
 import React from 'react';
 
+document.body.style.backgroundColor = "steelblue";
 class App extends React.Component {
 	render() {
 		return (
@@ -15,7 +16,7 @@ class Header extends React.Component {
 	render() {
 		return(
 			<div>
-				<h1>Another boring 'Hello World' app!</h1>
+				<h1 className="headerOne" style={{ color: '#27ae60', font: '70px Tahoma, Helvetica, Arial, Sans-Serif', textShadow: '0px 2px 3px rgb(114, 220, 159)' }}>Another boring 'Hello World' app!</h1>
 			</div>
 		);
 	}
@@ -24,8 +25,8 @@ class Header extends React.Component {
 class Content extends React.Component {
 	render(){
 		return(
-			<div>
-				<h2>Can we improve it?</h2>
+			<div id="initialDiv">
+				<h2 className="headerTwo">Can we improve it?</h2>
 				<p>Maybe we can together ...</p>
 			</div>
 		);

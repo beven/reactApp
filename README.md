@@ -1,7 +1,7 @@
 # Hello World app with Potential!!!
 A hello world reactApp which has the potential to evolve.
 
-Right now the app is pretty boring which just prints hello world but with everyone's help it has the potential to be something a lot more.
+Right now the app is pretty boring which just print hello world but with everyone's help it has the potential to be something a lot more.
 Anyone can contribute to this app to make it evolve into something amazing.
 
 # ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Prerequsites
