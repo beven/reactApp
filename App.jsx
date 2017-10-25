@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 
-import { Header } from "./Header.jsx";
-import { Content } from "./Content.jsx";
+import { Header } from "./components/header/Header.jsx";
+import { Content } from "./components/content/Content.jsx";
 
 document.body.style.backgroundColor = "steelblue";
 class App extends React.Component {
