@@ -1,3 +1,39 @@
+body, html {
+  padding:0px;
+  margin:0px;
+  font-family: sans-serif;
+}
+.amber{
+  color: #ffc107;
+}
+
+.blue{
+  color: #64b5f6;
+}
+
+.deepOrange{
+  color: #ff5722;
+}
+
+.green{
+  color: #4caf50;
+}
+
+.grey{
+  color: #eeeeee;
+}
+
+.lime{
+  color: #cddc39;
+}
+.pink{
+  color: #e91e63;
+}
+
+.yellow{
+  color: #ffeb3b;
+}
+
 .header {
   height: 40vh;
   background: #212121;
